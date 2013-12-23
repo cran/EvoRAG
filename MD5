@@ -1,0 +1,16 @@
+a694f8db2d2429ce8f0767b39eb4bdcb *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+69d4e4c5231d7bb6ada4d3554a371550 *R/EvoRAG_Code.R
+3e389bbfbb7860078572b09a75ea8a44 *data/bird.pitch.txt.gz
+bde2e761d8ece20c76dda9b91e4dfcbf *data/bird.syllables.txt.gz
+58c9f3c364327846831210d4d636783e *man/EvoRAG-data.Rd
+9ae71d3baa3909415e88c913462016c6 *man/EvoRAG-internal.Rd
+b76888a8485dae88c6e5d9d8a9475b73 *man/EvoRAG-package.Rd
+5a5ee0d4bad83a262c9728d2435156ae *man/MScorrection.Rd
+fb385a37240251375af90c116c2b8aa2 *man/bootstrap.test.Rd
+c5dc23f1622d54c79c00005e63df3493 *man/expectation.gradient.Rd
+a3e5b17ef7f05c1bebc2f20520b84c6f *man/expectation.time.Rd
+1628a4f342f74c2e46475cc587e21097 *man/model.test.sisters.Rd
+c2295e7438dc76c5d2ec4dc34b8ef04e *man/sim.sisters.Rd
+d8dfbf636587119c170443cba9941ad6 *man/sisterContinuous.Rd
+db36876fbdcb394b81ba6b9f9e9a5c38 *man/starting.values.Rd
